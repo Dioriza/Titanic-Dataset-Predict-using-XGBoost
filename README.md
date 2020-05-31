@@ -4,15 +4,24 @@ Tenggelamnya RMS Titanic adalah salah satu kapal karam paling terkenal dalam sej
 Salah satu alasan mengapa kapal karam itu menyebabkan hilangnya nyawa adalah karena tidak ada cukup sekoci untuk penumpang dan awak. Meskipun ada beberapa unsur keberuntungan dalam bertahan dari tenggelamnya, beberapa kelompok orang lebih mungkin bertahan daripada yang lain, seperti wanita, anak-anak, dan kelas atas.
 
 survival	  = prediksi selamat atau tidaknya penumpang, 0 = tidak selamat , 1 = selamat.
-pclass	    = kelas penumpang	1 = 1st, 2 = 2nd, 3 = 3rd.
-sex	        = jenis kelamin, female = perempuan, male= laki-laki.
-Age	        = umur.
-sibsp	      = saudara atau pacar didalam titanic.
-parch	      = keluarga atau anak-anak didalam titanic.
-ticket	    = nomor ticket.
-fare	      = harga tiket.
-cabin	      = nomor kabin.
-embarked	  = awal mula keberangkatan,	C = Cherbourg, Q = Queenstown, S = Southampton.
+
+pclass	    = kelas penumpang	1 = 1st, 2 = 2nd, 3 = 3rd
+
+sex	        = jenis kelamin, female = perempuan, male= laki-laki
+
+Age	        = umur
+
+sibsp	      = saudara atau pacar didalam titanic
+
+parch	      = keluarga atau anak-anak didalam titanic
+
+ticket	    = nomor ticket
+
+fare	      = harga tiket
+
+cabin	      = nomor kabin
+
+embarked	  = awal mula keberangkatan,	C = Cherbourg, Q = Queenstown, S = Southampton
 
 
 # XGBoost
